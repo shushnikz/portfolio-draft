@@ -9,7 +9,7 @@ export default function Contact(){
     const currentYear=new Date().getFullYear()
     return(
         <div className="contact">
-            <div className="card bg-light text-dark m-3 border-0">
+            <div className="card bg-light text-dark m-3 border-0 ">
             <div className="card-header border-0 card4"><h1>Contact Me</h1></div>
             <div className="form-floating margin">
   <input type="email" className="form-control" id="floatingInput" placeholder="name" />
@@ -35,7 +35,7 @@ export default function Contact(){
   <div className="footer">
   <div className="card-footer bg-transparent border-0">© {currentYear} Sushmitha Narayana Devadiga</div>
 </div>
-  <div className="card border-0 side-card">
+  <div className="card border-0  side-card">
   <ul className="list-group list-group-flush">
     <li className="list-group-item">
         <h6>Name</h6>
@@ -51,20 +51,22 @@ export default function Contact(){
     </li>
     <div className="icon1">
                             <a className="link" href="https://www.linkedin.com/in/sushmitha-narayan-devadiga-b1741216a"
-                            target="_blank">
+                            target="_blank" rel="noreferrer">
                                 <IconButton>
                                     <LinkedInIcon color="primary"/>
                                 </IconButton></a>
                                 <a className="link" href="https://github.com/shushnikz?tab=repositories"
-                                target="_blank">
+                                target="_blank" rel="noreferrer">
                                 <IconButton>
                                     <GitHubIcon style={{color: "grey"}}/>
                                 </IconButton></a>
-                                <a className="link" href="https://whatsapp.com/dl/" target="_blank">
+                                <a className="link" href="https://whatsapp.com/dl/" 
+                                target="_blank" rel="noreferrer">
                                 <IconButton>
                                     <WhatsAppIcon color="success"/>
                                 </IconButton></a>
-                                <a className="link" href="mailto: sushmithadevadiga997@gmail.com" target="_blank">
+                                <a className="link" href="mailto: sushmithadevadiga997@gmail.com" 
+                                target="_blank" rel="noreferrer">
                                 <IconButton>
                                     <EmailIcon color="error"/>
                                 </IconButton></a>

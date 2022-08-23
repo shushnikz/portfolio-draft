@@ -13,7 +13,7 @@ export default function Intro(){
                 <div className="row g-0">
                     <div className="col-md-4">
                         <img src={profile}
-                         className="img-fluid rounded-start image" alt="Profile"></img>
+                         className="img-fluid rounded-start image m-3" alt="Profile"></img>
                     </div>
                     <div className="col-md-8">
                         <div className="card-body bg-light text-light content">
@@ -22,23 +22,24 @@ export default function Intro(){
                             <p className="card-text">I'am currently working at Tata Consultancy Service as a Technical Support Analyst</p>
                             <div className="icon">
                             <a className="link" href="https://www.linkedin.com/in/sushmitha-narayan-devadiga-b1741216a"
-                            target="_blank">
+                            target="_blank" rel="noreferrer">
                                 <IconButton>
                                     <LinkedInIcon color="primary"/>
                                 </IconButton></a>
                                 <a className="link" href="https://github.com/shushnikz?tab=repositories"
-                                target="_blank">
+                                target="_blank" rel="noreferrer">
                                 <IconButton>
                                     <GitHubIcon style={{color: "grey"}}/>
                                 </IconButton></a>
                                 <a className="link" href="https://whatsapp.com/dl/"
-                                target="_blank">
+                                target="_blank" rel="noreferrer">
                                 <IconButton>
                                     <WhatsAppIcon color="success"/>
                                 </IconButton></a>
-                                <a className="link" href="mailto: sushmithadevadiga997@gmail.com" target="_blank">
+                                <a className="link" href="mailto: sushmithadevadiga997@gmail.com" 
+                                target="_blank" rel="noreferrer">
                                 <IconButton>
-                                    <EmailIcon />
+                                    <EmailIcon color="error"/>
                                 </IconButton></a>
                             </div>
                         </div>
