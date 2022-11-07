@@ -8,7 +8,7 @@ import EmailIcon from '@mui/icons-material/Email';
 export default function Contact(){
     const currentYear=new Date().getFullYear()
     return(
-        <div className="contact">
+        <div className="contact justify-content-between">
             <div className="card bg-light text-dark m-3 border-0 ">
             <div className="card-header border-0 card4"><h1>Contact Me</h1></div>
             <div className="form-floating margin">

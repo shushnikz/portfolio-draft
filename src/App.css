@@ -69,12 +69,20 @@
   background-color: #70764e;
 }
 .bar5{
-  width: 60%;
+  width: 90%;
   background-color: #0b4444;
 }
 .bar6{
-  width: 70%;
+  width: 80%;
   background-color: #6a5b8a;
+}
+.bar7{
+  width: 70%;
+  background-color: #34294d;
+}
+.bar8{
+  width: 60%;
+  background-color: #588097;
 }
 .progress{
   height: 40px;

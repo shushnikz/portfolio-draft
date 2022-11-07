@@ -37,22 +37,21 @@ export default function Project(){
   </div>
   <div className="col">
     <div className="card h-100">
-      <img src="https://1660200928.rsc.cdn77.org/wp-content/uploads/2019/12/shopping-apps.jpg" 
+      <img src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2019/06/38.1.png?resize=690%2C402&ssl=1" 
       className="card-img-top" alt="shopping -app"></img>
       <div className="card-body">
-        <h5 className="card-title head">Shopping Cart</h5>
-        <p className="card-text cont">Technologies used: HTML CSS React js</p>
-        <p className="card-text cont">Shopping Cart facilitates everything in between the 
-        customer finding a product they like and they can add it to cart for future purchase, and can
-         remove it from cart if they don't like it</p>
+        <h5 className="card-title head">Gmail Clone</h5>
+        <p className="card-text cont">Technologies used: CSS React js node js express MongoDB</p>
+        <p className="card-text cont">Using gmail clone you can send mail,delete mail, 
+        you can mark important mail as starred,initially you have to create account and login to the mail</p>
       </div>
       <div className="card-footer">
       <div className="d-flex justify-content-between">
-        <a href="https://timely-gingersnap-b51963.netlify.app/" target="_blank"
+        <a href="https://charming-rabanadas-232116.netlify.app/" target="_blank"
          className="text-muted"><IconButton>
             <FileCopyIcon style={{color: "grey"}}/>
             </IconButton></a>
-            <a href="https://github.com/shushnikz/Shop-Cart" target="_blank"
+            <a href="https://github.com/shushnikz/bulk-email-tool-frontend" target="_blank"
             className="text-muted"><IconButton>
             <GitHubIcon style={{color: "grey"}}/>
             </IconButton></a>

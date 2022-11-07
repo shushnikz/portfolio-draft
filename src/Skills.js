@@ -24,11 +24,19 @@ export default function Skills(){
 </div>
 <h5 className="text-dark m-2">React js</h5>
   <div className="progress">
-  <div className="progress-bar bar5" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">60%</div>
+  <div className="progress-bar bar5" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">90%</div>
 </div>
 <h5 className="text-dark m-2">SQL</h5>
   <div className="progress">
-  <div className="progress-bar bar6" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">70%</div>
+  <div className="progress-bar bar6" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">80%</div>
+</div>
+<h5 className="text-dark m-2">MongoDB</h5>
+  <div className="progress">
+  <div className="progress-bar bar7" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">70%</div>
+</div>
+<h5 className="text-dark m-2">Node js</h5>
+  <div className="progress">
+  <div className="progress-bar bar8" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">60%</div>
 </div>
   </div>
   </div>
