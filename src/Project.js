@@ -61,21 +61,22 @@ export default function Project(){
   </div>
   <div className="col">
     <div className="card h-100">
-      <img src="https://apod.nasa.gov/apod/image/1210/pk164_caha_960.jpg" 
+      <img src="http://unblast.com/wp-content/uploads/2020/04/Chat-Dashboard-UI-Template-1.jpg" 
       className="card-img-top" alt="nasa-planetary"></img>
       <div className="card-body">
-        <h5 className="card-title head">Nasa Planetary Apod</h5>
-        <p className="card-text cont">Technologies used: HTML CSS Javascript</p>
-        <p className="card-text cont">In this app you can see the snapshot captured 
-        by NASA and get description about it</p>
+        <h5 className="card-title head">Chat App</h5>
+        <p className="card-text cont">Technologies used: CSS React js, MongoDB, node js</p>
+        <p className="card-text cont">A chat application makes it easy to communicate with people 
+        anywhere in the world by sending and receiving messages in real time. Here we have different rooms for members and we can send message
+        and receive Notifications</p>
       </div>
       <div className="card-footer">
       <div className="d-flex justify-content-between">
-        <a href="https://cozy-pasca-9c1b8f.netlify.app/" target="_blank"
+        <a href="https://mellifluous-sunshine-658712.netlify.app/" target="_blank"
         className="text-muted"><IconButton>
             <FileCopyIcon style={{color: "grey"}}/>
             </IconButton></a>
-            <a href="https://github.com/shushnikz/public-api-nasa" target="_blank"
+            <a href="https://github.com/shushnikz/chat-app-frontend" target="_blank"
             className="text-muted"><IconButton>
             <GitHubIcon style={{color: "grey"}}/>
             </IconButton></a>
