@@ -109,21 +109,22 @@ export default function Project(){
   </div>
   <div className="col">
     <div className="card h-100">
-      <img src="https://teatv.net/wp-content/uploads/2018/02/top-5-best-watch-movie-apps-for-android-at-the-moment-1.jpg" 
+      <img src="https://www.androidauthority.com/wp-content/uploads/2020/04/Glassdoor-screenshot-2020.jpg" 
       className="card-img-top" alt="movie-app"></img>
       <div className="card-body">
-        <h5 className="card-title head">Movie-App</h5>
-        <p className="card-text cont">Technologies used: HTML CSS React js</p>
-        <p className="card-text cont">In Movie-app you can add or delete the movie you want,you will 
-        get movie details with trailer and you can like or dislike the movie</p>
+        <h5 className="card-title head">Find-job-App</h5>
+        <p className="card-text cont">Technologies used: CSS React js node js express MongoDB</p>
+        <p className="card-text cont">In the Job App you can create your profile, 
+        edit the profile, being a user you can create a job,
+        you can post job and in the posted jobs we can see applied jobs and so many application available</p>
       </div>
       <div className="card-footer">
       <div className="d-flex justify-content-between">
-        <a href="https://soft-kitten-6f1412.netlify.app/" target="_blank"
+        <a href="https://beautiful-clafoutis-5cab2f.netlify.app/" target="_blank"
         className="text-muted"><IconButton>
             <FileCopyIcon style={{color: "grey"}}/>
             </IconButton></a>
-            <a href="https://github.com/shushnikz/movie-app-react" target="_blank"
+            <a href="https://github.com/shushnikz/job-app-frontend" target="_blank"
             className="text-muted"><IconButton>
             <GitHubIcon style={{color: "grey"}}/>
             </IconButton></a>

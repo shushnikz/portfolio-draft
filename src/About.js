@@ -13,7 +13,7 @@ export default function About(){
     I like Web Development and to Create a new Interfaces.</p>
   </div>
   <div className="resume">
-  <a  href="https://in.docworkspace.com/d/sIMO8-pZYp-G9mwY?sa=03&st=0t"
+  <a  href="https://in.docworkspace.com/d/sINK8-pZYk6ienAY?sa=03&st=0t"
   target="_blank">
                                 <IconButton >
                                     <InsertDriveFileIcon color="secondary"/>
