@@ -112,10 +112,6 @@
   text-align: center;
   margin: 20px 0px;
 }
-.contact input,label,textarea{
- width: 50%;
- 
-}
 .card4{
   text-align: center;
   background-color: #9f9483;
@@ -135,9 +131,6 @@
 .contact li{
   margin-top: 10px;
 }
-.icon1{
-  margin-top: 50px;
-}
 .icon1 a{
   padding: 30px;
 }
@@ -146,5 +139,15 @@
   text-align: center;
   margin-top: 70px;
   color: #272728;
+}
+.flex{
+  display: flex !important;
+}
+.contact{
+  background-color: #626158;
+  text-align: center;
+}
+.ant-btn{
+  background-color: #224e39;
 }
 
