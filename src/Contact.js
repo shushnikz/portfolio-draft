@@ -33,7 +33,6 @@ export default function Contact() {
               </Form.Item>
               <Button htmlType="submit">Submit</Button>
             </Form>
-
           </div>
           <div className="mt-4">
             <div className="card border-0" style={{ width: "18rem" }}>
@@ -58,11 +57,6 @@ export default function Contact() {
                       target="_blank" rel="noreferrer">
                       <IconButton>
                         <GitHubIcon style={{ color: "grey" }} />
-                      </IconButton></a>
-                    <a className="link" href="https://whatsapp.com/dl/"
-                      target="_blank" rel="noreferrer">
-                      <IconButton>
-                        <WhatsAppIcon color="success" />
                       </IconButton></a>
                     <a className="link" href="mailto: sushmithadevadiga997@gmail.com"
                       target="_blank" rel="noreferrer">

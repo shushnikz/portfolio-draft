@@ -31,11 +31,6 @@ export default function Intro(){
                                 <IconButton>
                                     <GitHubIcon style={{color: "grey"}}/>
                                 </IconButton></a>
-                                <a className="link" href="https://whatsapp.com/dl/"
-                                target="_blank" rel="noreferrer">
-                                <IconButton>
-                                    <WhatsAppIcon color="success"/>
-                                </IconButton></a>
                                 <a className="link" href="mailto: sushmithadevadiga997@gmail.com" 
                                 target="_blank" rel="noreferrer">
                                 <IconButton>
