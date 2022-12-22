@@ -47,6 +47,10 @@ export default function Project(){
       </div>
       <div className="card-footer">
       <div className="d-flex justify-content-between">
+      <a href="https://github.com/shushnikz/bulk-email-tool-backend" target="_blank"
+            className="text-muted"><IconButton>
+            <GitHubIcon style={{color: "grey"}}/>
+            </IconButton></a>
         <a href="https://charming-rabanadas-232116.netlify.app/" target="_blank"
          className="text-muted"><IconButton>
             <FileCopyIcon style={{color: "grey"}}/>
@@ -62,7 +66,7 @@ export default function Project(){
   <div className="col">
     <div className="card h-100">
       <img src="http://unblast.com/wp-content/uploads/2020/04/Chat-Dashboard-UI-Template-1.jpg" 
-      className="card-img-top" alt="nasa-planetary"></img>
+      className="card-img-top" alt="chat-app"></img>
       <div className="card-body">
         <h5 className="card-title head">Chat App</h5>
         <p className="card-text cont">Technologies used: CSS React js, MongoDB, node js</p>
@@ -72,6 +76,10 @@ export default function Project(){
       </div>
       <div className="card-footer">
       <div className="d-flex justify-content-between">
+      <a href="https://github.com/shushnikz/chat-app-backend" target="_blank"
+            className="text-muted"><IconButton>
+            <GitHubIcon style={{color: "grey"}}/>
+            </IconButton></a>
         <a href="https://mellifluous-sunshine-658712.netlify.app/" target="_blank"
         className="text-muted"><IconButton>
             <FileCopyIcon style={{color: "grey"}}/>
@@ -120,6 +128,10 @@ export default function Project(){
       </div>
       <div className="card-footer">
       <div className="d-flex justify-content-between">
+      <a href="https://github.com/shushnikz/job-app-backend" target="_blank"
+            className="text-muted"><IconButton>
+            <GitHubIcon style={{color: "grey"}}/>
+            </IconButton></a>
         <a href="https://beautiful-clafoutis-5cab2f.netlify.app/" target="_blank"
         className="text-muted"><IconButton>
             <FileCopyIcon style={{color: "grey"}}/>
