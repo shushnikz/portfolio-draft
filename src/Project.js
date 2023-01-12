@@ -150,7 +150,7 @@ export default function Project() {
                 className="card-img-top" alt="cat-app"></img>
               <div className="card-body">
                 <h5 className="card-title head">Todo App</h5>
-                <p className="card-text cont">Technologies used: HTML CSS React js, node js, express</p>
+                <p className="card-text cont">Technologies used: HTML CSS React js, node js, express MongoDB</p>
                 <p className="card-text cont">In this app we can make the list of task we want to do</p>
               </div>
               <div className="card-footer">
