@@ -65,22 +65,20 @@ export default function Project() {
           </div>
           <div className="col">
             <div className="card h-100">
-              <img src="http://unblast.com/wp-content/uploads/2020/04/Chat-Dashboard-UI-Template-1.jpg"
+              <img src="https://www.careertoolbelt.com/wp-content/uploads/2019/08/iStock-1160804712.jpg"
                 className="card-img-top" alt="chat-app"></img>
               <div className="card-body">
-                <h5 className="card-title head">Chat App</h5>
-                <p className="card-text cont">Technologies used: CSS React js, MongoDB, node js</p>
-                <p className="card-text cont">A chat application makes it easy to communicate with people
-                  anywhere in the world by sending and receiving messages in real time. Here we have different rooms for members and we can send message
-                  and receive Notifications</p>
+                <h5 className="card-title head">Build Resume</h5>
+                <p className="card-text cont">Technologies used: CSS React js, MongoDB, node js, Express</p>
+                <p className="card-text cont">In this application we can build the resume using the template and can modify the details and print the resume</p>
               </div>
               <div className="card-footer">
                 <div className="d-flex justify-content-between">
-                  <a href="https://github.com/shushnikz/chat-app-backend" target="_blank"
+                  <a href="https://github.com/shushnikz/Build-cv-backend" target="_blank"
                     className="text-muted"><IconButton>
                       <GitHubIcon style={{ color: "grey" }} />
                     </IconButton></a>
-                  <a href="https://mellifluous-sunshine-658712.netlify.app/" target="_blank"
+                  <a href="https://sparkly-maamoul-b64354.netlify.app/" target="_blank"
                     className="text-muted"><IconButton>
                       <FileCopyIcon style={{ color: "grey" }} />
                     </IconButton></a>
