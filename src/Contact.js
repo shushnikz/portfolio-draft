@@ -16,7 +16,6 @@ export default function Contact() {
       <div className="card m-3 border-0">
         <div className="card-header border-0 contact"><h1>Contact Me</h1></div>
         <div className="flex justify-content-around">
-
           <div className="m-3">
             <p><b>If you want to know more about me or my work, or if you would just like to say hello,
               <br />
