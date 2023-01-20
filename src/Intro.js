@@ -26,7 +26,7 @@ export default function Intro() {
                                     <IconButton>
                                         <LinkedInIcon color="primary" />
                                     </IconButton></a>
-                                <a className="link" href="https://github.com/shushnikz?tab=repositories"
+                                <a className="link" href="https://github.com/shushnikz"
                                     target="_blank" rel="noreferrer">
                                     <IconButton>
                                         <GitHubIcon style={{ color: "grey" }} />
