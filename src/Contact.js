@@ -2,9 +2,8 @@ import React from "react";
 import IconButton from '@mui/material/IconButton';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import GitHubIcon from '@mui/icons-material/GitHub';
-import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 import EmailIcon from '@mui/icons-material/Email';
-import { Button, Col, Form, Input, Row } from "antd"
+import { Button, Form, Input } from "antd"
 import TextArea from "antd/es/input/TextArea";
 
 export default function Contact() {
